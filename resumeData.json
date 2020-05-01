@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Brandon Ellis",
+    "occupation":"Software Engineer and Aspiring Game Developer",
+    "description":"A fresh student in college who wants to see the world burn through the power of the Godot Game Engine and Microsoft Powerpoint",
+    "image":"profile_pic.png",
+    "bio":"I'm a straight white male with no government benefits or race cards. The profile pic is definitely not fake",
+    "contactmessage":"Please contact me I have no friends",
+    "email": "Brandon.ALX.Ellis@gmail.com",
+    "phone": "803-574-1337",
+    "address":{
+      "street":"10410A Baltimore National Pike",
+      "city":"Ellicott City",
+      "state":"MD",
+      "zip": "21042"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/152WLNE3LtUXVNVmB5U5z3d088wi4ZFge/view",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/brandon.alx.ellis",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/BrandonALXEllis",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brandon-ellis-7baa691a8/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/BrandonALXEllis",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My stats should be enough to take down the boss when we start the raid",
+    "education":[
+      {
+        "school":"University of Maryland Baltimore County",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"May 2021",
+        "description":"learn to code"
+      }
+    ],
+    "work":[
+      {
+        "company":"DonorSearch",
+        "title":"Web Development Internship",
+        "years":"October 2019 - February 2020",
+        "description":"Refactored company web pages and created tools such as a chrome plugin and a batch API caller "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Godot",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Powerpoint",
+        "level":"99%"
+      },
+      {
+        "name":"Roblox",
+        "level":"25%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"55%"
+      },
+      {
+        "name":"lua",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"35%"
+      },
+      {
+        "name":"SQL",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bit Rush",
+        "category":"A mobile game crossup between a Visual Novel and Platformer which I directed",
+        "image":"bit-rush.png",
+        "url":"https://brandonalxellis.itch.io/bit-rush"
+      },
+      {
+        "title":"Yonko Battle",
+        "category":"A multiplayer mobile game that takes a twist on Connect 4 which I did UI work for",
+        "image":"yonko-battle.png",
+        "url":"https://play.google.com/store/apps/details?id=umbc.gamedev.yonkobattle&hl=en_US"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Please hire him",
+        "user":"No one"
+      },
+      {
+        "text":"What are you waiting for?",
+        "user":"...still no one"
+      }
+    ]
+  }
+}
